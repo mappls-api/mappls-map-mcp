@@ -38,6 +38,10 @@ The Mappls MCP Server connects an AI assistant to MapmyIndia's location data ove
 - [Client Documentation](docs/v1.3.0/GETTING-STARTED.md#client-documentation)
 - [Client Setup](docs/v1.3.0/GETTING-STARTED.md#client-setup): [Claude Desktop](docs/v1.3.0/GETTING-STARTED.md#claude-desktop) · [Claude Code](docs/v1.3.0/GETTING-STARTED.md#claude-code-cli) · [Cursor](docs/v1.3.0/GETTING-STARTED.md#cursor) · [Google Antigravity](docs/v1.3.0/GETTING-STARTED.md#google-antigravity) · [Any other client](docs/v1.3.0/GETTING-STARTED.md#any-other-mcp-client)
 
+### MCP Architecture
+- [Architectural Diagram: Mappls Map MCP for Automotive](docs/v1.3.0/ARCHITECTURE-AUTOMOTIVE.md)
+- [Architectural Diagram: Mappls Map MCP for Generic](docs/v1.3.0/ARCHITECTURE-GENERIC.md)
+
 ### Tool Reference
 - [mappls_find_places](docs/v1.3.0/TOOLS.md#mappls_find_places)
 - [mappls_plan_route](docs/v1.3.0/TOOLS.md#mappls_plan_route)
