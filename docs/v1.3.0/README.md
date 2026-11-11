@@ -67,6 +67,16 @@ The Mappls MCP Server connects an AI assistant to MapmyIndia's location data ove
 - [Category 13: Honest Answers When Data Is Missing](docs/v1.3.0/USE-CASES.md#category-13-honest-answers-when-data-is-missing)
 
 ---
+## License & AI Usage Policy
+
+This repository is governed by the [Mappls MCP Server License](LICENSE.md):
+* **Sample Configurations & Examples:** Licensed under the [MIT License](LICENSE.md#3-sample-code-and-quickstarts).
+* **MCP Server Software & Schemas:** Proprietary to CE Info Systems Limited (“MapmyIndia”). Free for local evaluation and testing; **requires an active commercial subscription and credentials for production deployment**.
+* **AI Training & Scraping Restrictions:** Strict prohibitions apply against caching responses in vector databases, distilling outputs, or training/fine-tuning AI models on Mappls geospatial data. See [Section 2 of LICENSE.md](LICENSE.md#2-ai-model-training-caching-distillation--anti-scraping-restrictions).
+
+For commercial licensing and enterprise API keys, contact [contact@mappls.com](mailto:contact@mappls.com).
+
+---
 
 For any queries and support, please contact:
 
